@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HelloR/static/css/main.bbb4f59a.css",
+    "main.js": "/HelloR/static/js/main.e9182253.js",
+    "static/js/787.1ed0c42c.chunk.js": "/HelloR/static/js/787.1ed0c42c.chunk.js",
+    "index.html": "/HelloR/index.html",
+    "main.bbb4f59a.css.map": "/HelloR/static/css/main.bbb4f59a.css.map",
+    "main.e9182253.js.map": "/HelloR/static/js/main.e9182253.js.map",
+    "787.1ed0c42c.chunk.js.map": "/HelloR/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbb4f59a.css",
+    "static/js/main.e9182253.js"
+  ]
+}
