@@ -14,3 +14,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.header1{
+  color: antiquewhite;
+}
+.miniHeader{
+  color: blue;
+}
+.btn{
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  outline: none;
+  font-size: 1rem;
+}
+.btnAll{
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+}
