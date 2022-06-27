@@ -1,6 +1,6 @@
 import React from 'react'
 import Button from './Button'
-ccccccc
+
 const Body = () => {
   return (
     <div>
